@@ -1,0 +1,9 @@
+[submodule "MapReduce-Architecture"]
+	path = MapReduce-Architecture
+	url = git@github.com:AliAkhgari/MapReduce-Architecture.git
+[submodule "MultiThreaded-Image-Filtering"]
+	path = MultiThreaded-Image-Filtering
+	url = git@github.com:AliAkhgari/MultiThreaded-Image-Filtering.git
+[submodule "Socket-Programming"]
+	path = Socket-Programming
+	url = git@github.com:AliAkhgari/Socket-Programming.git
